@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Kotlin Study</string>
+    <string name="show_cars">show cars</string>
+    <string name="Enter_car_name">Enter car name here...</string>
+    <string name="show_details">show details</string>
 </resources>
